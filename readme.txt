@@ -7,3 +7,4 @@ test branch
 branch manage
 new branch manage 
 fix bug
+clone remote dev
